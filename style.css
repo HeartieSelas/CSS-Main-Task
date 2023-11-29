@@ -125,7 +125,7 @@ nav ul .active{
         left: 0;
     }
     .background{
-        background-image: url('Nature.jpg');
+        background-image: url('Images/Nature.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
